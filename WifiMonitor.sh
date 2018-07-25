@@ -74,7 +74,7 @@ do
   echo "Connected;$timestamp;${CurConnection[11]};${CurConnection[0]};${CurConnection[7]};${CurConnection[2]}" >> wifilog.txt
   echo "Notes
 1. To show only the interested SSID, run the script followed by SSID's name.
-2. -55 above for all service and vehicles , -67 above for all other clients
+2. -55 above is good reception , -67 above is acceptable.
 3. Log file output at ./wifilog.txt
 4. Ctrl+C to quit
 5. Refresh every 6-7s"
