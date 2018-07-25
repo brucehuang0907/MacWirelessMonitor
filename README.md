@@ -16,4 +16,4 @@ One SSID name could be as command line input to show only interested SSID.
 Nice looking with colored text in output
 
 # Screenshot
-![Screen Shot](http://brucehuang0907/MacWirelessMonitor/blob/master/ScreenShot.png)
+![Screen Shot](https://github.com/brucehuang0907/MacWirelessMonitor/blob/master/ScreenShot.png)
