@@ -10,7 +10,7 @@ SSIDFilter=""
 
   echo "Notes
 1. To show only the interested SSID, run the script followed by SSID's name.
-2. -55dBm above for all service and vehicles , -67dBm above for all other clients
+2. -55dBm above for demanding clients , -67dBm above for all other clients
 3. Log file output at ./wifilog.txt
 4. Ctrl+C to quit
 5. Refresh every 6-7s"
